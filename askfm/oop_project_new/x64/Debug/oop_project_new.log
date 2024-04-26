@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+D:\oop_project_new\oop_project_new\FileName.cpp(140,29): warning C4552: '+': result of expression not used
+  oop_project_new.vcxproj -> D:\oop_project_new\x64\Debug\oop_project_new.exe
